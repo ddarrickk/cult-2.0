@@ -26,11 +26,12 @@
     background-color: transparent;
 }
 .initiation {
+    background-color: transparent;
     position: absolute;
-    min-width: 13%;
-    min-height: 5%;
-    max-width: 13%;
-    max-height: 5%;
+    min-width: 40%;
+    min-height: 40%;
+    max-width: 40%;
+    max-height: 40%;
     top: 25%;
     left: 15%;
 }
